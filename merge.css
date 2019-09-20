@@ -13,13 +13,13 @@ div {
   height:100%;
 }
 .harold {
-  text-transform:uppercase;
+  text-transform:lowercase;
 }
 .james  {
-  background-color: grey;
+  background-color: magenta;
 }
 .steve {
-  background-color: pink;
+  background-color: red;
 }
 
 .fred {
